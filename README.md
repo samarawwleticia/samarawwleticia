@@ -18,3 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samara-letícia-8442b2207)
 
 </div><br><br>
+
+![snake gif](https://github.com/samarawwleticia/samarawwleticia/blob/output/snake.svg)
+
