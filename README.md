@@ -8,7 +8,7 @@ class SobreMim extends DataEngineer {
   local = "Brasília - DF";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends DataEngineer {
   linguagens = ["python, c, java, javascript"];
   bibliotecas = ["matplotlib, numpy, pandas, seaborn, plotly"];
   frameworks = ["Em desenvolvimento... :)"];
