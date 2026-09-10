@@ -1,5 +1,5 @@
 ```js
-import DataEngineer from "samarawwsantos";
+import DataEngineer from "samarawwleticia";
 
 class SobreMim extends DataEngineer {
   nome = "Samara Letícia";
